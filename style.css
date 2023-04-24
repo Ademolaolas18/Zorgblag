@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Head{
+    display: flex;
+    justify-content: center;
+}
+.msg{
+    margin-top: 5%;
+    padding-left: 1%;
+}
+.menu{
+    background-color: pink;
+    width: 100%;
+    height: 30px;
+    border: 2px solid rgb(240, 95, 95);
+}
+.contents{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 4px;
+    color:  rgb(240, 95, 95);
+}
+.body{
+    display: flex;
+    padding-top: 2%;
+}
+.Why{
+    padding-top: 2%;
+    color: rgb(175, 104, 22);
+    font-family: cursive;
+}
+.word{
+    padding-left: 2%;
+}
+.Post{
+    padding-top: 2%;
+    color: rgb(110, 238, 110);
+}
+.Lots{
+    padding-top: 2%;
+    color: black;
+}
+.Rd{
+    padding-top: 2%;
+    color: rgb(235, 66, 94);
+}
+.pic img{
+    border-radius: 5%;
+}
+hr{
+    margin-top: 2%;
+    background-color: rgb(235, 66, 94);
+    height: 1px;
+    border: none;
+}
+.Next{
+    padding-top: 1%;
+}
+.one{
+    padding-top: 1%;
+}
+.text{
+    width: 20%;
+    height: 30px;
+}
+.ext{
+    border: 1px solid rgb(175, 7, 7);
+}
+.con{
+    background-color: red;
+    color: rgb(185, 182, 182);
+    border: 3px solid red;
+    font-weight: bold;
+}
+.Nex{
+    padding-top: 3%;
+}
+.last{
+    padding-top: 3%;
+    text-align: center;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    padding-top: 1%;
+}
+.icon img{
+    margin-left: 5px;
+}
